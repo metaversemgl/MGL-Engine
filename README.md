@@ -1,5 +1,5 @@
 # MGL-Engine
-As we said in Metaverse MGL WhitePaper :
+as we said in Metaverse MGL WhitePaper :
 Genesis introduces the MGL-Engine standard, which is a complete set of development tools for anyone working with real-time technology. This gives all the inhabitants of the lands of Genesis the freedom to have all their imagination without any restrictions in the world of Genesis.
 This is a start for the Metaverse MGL network and its Genesis Land.
 Today we have decided to tell you a little about the features that this standard gives you along with its tools.
